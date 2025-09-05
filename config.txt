@@ -1,0 +1,7 @@
+Game_name:Fomalhaut;
+Game_key:1678cde4f7b1842;
+Title_img:标题背景.jpg;
+Title_bgm:共处.mp3;
+Textbox_theme:imss;
+Default_Language:zh_CN;
+Package_name:Fomalhaut;
